@@ -1,0 +1,13 @@
+.table th+.acao {
+    width: 50px;
+}
+
+.navbar-inverse{
+    background-color: #ffb3ca;
+    
+}
+
+.navbar-inverse a{
+    color:#8f002c !important;
+    
+}
